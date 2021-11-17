@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ALResourceManager : NSObject
 
-@property (class, nonatomic, copy, readonly) NSURL *resourceBundleURL;
+@property (class, nonatomic, strong, readonly) NSURL *resourceBundleURL;
 
 - (instancetype)init NS_UNAVAILABLE;
 + (instancetype)new NS_UNAVAILABLE;
