@@ -10,20 +10,20 @@
 
 @implementation ALResourceManager
 
-static NSURL *_resourceBundleURL;
+static NSURL *ALResourceBundleURL;
 
 + (void)initialize
 {
     [super initialize];
     
-    _resourceBundleURL = [SWIFTPM_MODULE_BUNDLE URLForResource: @"AppLovinSDKResources" withExtension: @"bundle"];
+    ALResourceBundleURL = [SWIFTPM_MODULE_BUNDLE URLForResource: @"AppLovinSDKResources" withExtension: @"bundle"];
 
     return self;
 }
 
 + (NSURL *)resourceBundleURL
 {
-    return _resourceBundleURL;
+    return ALResourceBundleURL;
 }
 
 @end
