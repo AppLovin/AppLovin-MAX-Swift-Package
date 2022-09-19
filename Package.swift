@@ -49,8 +49,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinSDK",
-            url: "https://artifacts.applovin.com/ios/com/applovin/applovin-sdk/AppLovinSDK-11.4.4.xcframework.zip",
-            checksum: "e0a61eb0a0d6f51e806e8bfb27a1d3a8beb14cd4955e5c963b5c488be3aabebe"
+            url: "https://artifacts.applovin.com/ios/com/applovin/applovin-sdk/AppLovinSDK-11.5.0.xcframework.zip",
+            checksum: "2d558472ef43730d07edb4b855e3813d9efd3f19c48ddf68f1d2736ec95b7dde"
         )
     ]
 )
