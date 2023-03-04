@@ -12,11 +12,17 @@
         },
         "transitions": [{
             "title": {
-                "key": "CONTINUE_BUTTON_TITLE"
+                "key": "AGREE_TO_TERMS_BUTTON_TITLE"
             },
             "style": "default",
             "destination_state_id": 12
         }]
+    }, {
+        "id": 10,
+        "type": "tos"
+    }, {
+        "id": 11,
+        "type": "pp"
     }, {
         "id": 12,
         "type": "event",
