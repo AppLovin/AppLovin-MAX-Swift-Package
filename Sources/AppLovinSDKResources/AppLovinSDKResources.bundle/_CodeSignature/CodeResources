@@ -8,13 +8,13 @@
 		<data>
 		B68lBq++BAY+jMXppPQMeodKf6Y=
 		</data>
-		<key>ALConsentFlowATTAndGDPR.json</key>
-		<data>
-		C8GQ9QUxyz8eMnDYbfzrEiqmY6s=
-		</data>
 		<key>ALConsentFlowGDPR.json</key>
 		<data>
 		XcySMdKL2Gfn1/PQCLx1lnYUrho=
+		</data>
+		<key>ALConsentFlowGDPRAndATT.json</key>
+		<data>
+		7Oru6wcILaeE4g9blm6EMbkh8To=
 		</data>
 		<key>ALConsentFlowPrivacyPolicy.json</key>
 		<data>
@@ -238,17 +238,6 @@
 			I8MC8PiNfLd6AniG/Eh/oN+UTAXcJtpbvta9wCZsxdo=
 			</data>
 		</dict>
-		<key>ALConsentFlowATTAndGDPR.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			C8GQ9QUxyz8eMnDYbfzrEiqmY6s=
-			</data>
-			<key>hash2</key>
-			<data>
-			uMGGkfWECjzSEiHnKCCUgoYpPHWEFdqSX1rkF6a1pjE=
-			</data>
-		</dict>
 		<key>ALConsentFlowGDPR.json</key>
 		<dict>
 			<key>hash</key>
@@ -258,6 +247,17 @@
 			<key>hash2</key>
 			<data>
 			oKkhWky8+iAPcPClgiHuy8cpkfvYYYo8jh6RH+serz4=
+			</data>
+		</dict>
+		<key>ALConsentFlowGDPRAndATT.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7Oru6wcILaeE4g9blm6EMbkh8To=
+			</data>
+			<key>hash2</key>
+			<data>
+			+gQQIIb0Pk7hqm+a2cf+u1zZWke8vgpH+w1rVQ1c9Hg=
 			</data>
 		</dict>
 		<key>ALConsentFlowPrivacyPolicy.json</key>

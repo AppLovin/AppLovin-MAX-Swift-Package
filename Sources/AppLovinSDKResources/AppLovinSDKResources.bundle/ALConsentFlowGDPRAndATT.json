@@ -1,11 +1,7 @@
 {
     "states": [{
-        "id": 14,
-        "is_initial_state": true,
-        "type": "att",
-        "destination_state_id": 2
-    }, {
         "id": 2,
+        "is_initial_state": true,
         "type": "gdpr_alert",
         "main_screen_title": {
             "key": "GDPR_MAIN_SCREEN_TITLE",
@@ -22,6 +18,10 @@
         "id": 13,
         "type": "event",
         "name": "gdpr_ok",
+        "destination_state_id": 14
+    }, {
+        "id": 14,
+        "type": "att",
         "destination_state_id": 99
     }, {
         "id": 99,
