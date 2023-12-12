@@ -17,8 +17,6 @@ static NSURL *ALResourceBundleURL;
     [super initialize];
     
     ALResourceBundleURL = [SWIFTPM_MODULE_BUNDLE URLForResource: @"AppLovinSDKResources" withExtension: @"bundle"];
-
-    return self;
 }
 
 + (NSURL *)resourceBundleURL
