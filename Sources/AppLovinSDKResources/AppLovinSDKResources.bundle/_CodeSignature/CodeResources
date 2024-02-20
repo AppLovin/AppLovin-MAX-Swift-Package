@@ -50,7 +50,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		V6J+gdCXCKsSA/wIVzdrkRd6MKY=
+		rX1ZABNpTnl7++v8bx6xAyUo8EA=
 		</data>
 		<key>Base.lproj/Localizable.strings</key>
 		<data>
@@ -162,9 +162,9 @@
 		<data>
 		xrLmOHGKRkA1PdlxjX8QdhUlYC8=
 		</data>
-		<key>omsdk-v1.4.9.js</key>
+		<key>omsdk-v1.4.12.js</key>
 		<data>
-		u6QABCiS4yxxy9R6Q/2gQPUpFQM=
+		xFoo41tIvFKNNRq9NwW500wQtM8=
 		</data>
 		<key>zh-Hans.lproj/Localizable.strings</key>
 		<dict>
@@ -312,11 +312,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V6J+gdCXCKsSA/wIVzdrkRd6MKY=
+			rX1ZABNpTnl7++v8bx6xAyUo8EA=
 			</data>
 			<key>hash2</key>
 			<data>
-			38vj9I8s+IzlM0WanuATKIMT3ZKPgT5T6QlDq8TeiLY=
+			y1GvknpTXWMT2y4lwCpwik2GauFwPQxFnagU0GuZjZY=
 			</data>
 		</dict>
 		<key>Base.lproj/Localizable.strings</key>
@@ -551,15 +551,15 @@
 			WUTtOynoFPERt7tbMpqwDPv3YX9EfZjQDLz1X3hRVww=
 			</data>
 		</dict>
-		<key>omsdk-v1.4.9.js</key>
+		<key>omsdk-v1.4.12.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u6QABCiS4yxxy9R6Q/2gQPUpFQM=
+			xFoo41tIvFKNNRq9NwW500wQtM8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fGbAzuXnvBlyUql88tAJqU5hVmCWGyL78Q2Fy/3VGSU=
+			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
 			</data>
 		</dict>
 		<key>zh-Hans.lproj/Localizable.strings</key>
