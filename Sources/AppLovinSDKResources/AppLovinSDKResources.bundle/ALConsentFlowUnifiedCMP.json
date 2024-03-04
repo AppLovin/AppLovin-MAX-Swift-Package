@@ -35,11 +35,6 @@
         "id": 500,
         "type": "terms_flow"
     }, {
-        "id": 12,
-        "type": "event",
-        "name": "tos_ok",
-        "destination_state_id": 99
-    }, {
         "id": 99,
         "type": "reinit"
     }]
