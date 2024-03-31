@@ -50,7 +50,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		M2bfY8W5r4z/bVZxVIvtOZlKTqI=
+		ZZDbNZBSNTGLdGCwNgJsyVjDK4c=
 		</data>
 		<key>Base.lproj/Localizable.strings</key>
 		<data>
@@ -99,10 +99,6 @@
 		<key>OMLICENSE</key>
 		<data>
 		Eq/AvBcL2+jfm6NHJidXNHfgAcM=
-		</data>
-		<key>PrivacyInfo.xcprivacy</key>
-		<data>
-		jR5kks/wyXPVXeOvTLbLYPKn2g0=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
@@ -312,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M2bfY8W5r4z/bVZxVIvtOZlKTqI=
+			ZZDbNZBSNTGLdGCwNgJsyVjDK4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			WMccxF74zyHTa0lHUjwYUVA6YBBXfy46qw6jTkbDMuk=
+			/XVWnAgtoYgxmK6gHAHu7J5w6iAot3i846V8Sul1JFE=
 			</data>
 		</dict>
 		<key>Base.lproj/Localizable.strings</key>
@@ -449,17 +445,6 @@
 			<key>hash2</key>
 			<data>
 			YeXJiTAU447VjJbPUiB4yoLGGli+nQlwWl1J5cZT9+I=
-			</data>
-		</dict>
-		<key>PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jR5kks/wyXPVXeOvTLbLYPKn2g0=
-			</data>
-			<key>hash2</key>
-			<data>
-			gOOIgdv7OxZfnvNc+kOyjqwA1bGAWKEnWIwpQZOEHJ8=
 			</data>
 		</dict>
 		<key>de.lproj/Localizable.strings</key>
