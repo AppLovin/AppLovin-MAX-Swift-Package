@@ -18,6 +18,6 @@ dependencies: [
 
 2. Enable the `-ObjC` flag in Xcode: click on your project settings, go to **Build Settings**, search for **Other Linker Flags** and add `-ObjC`.
 
-Check out our integration [docs](https://dash.applovin.com/documentation/mediation/ios/getting-started/integration) for more info on getting started with the AppLovin MAX SDK.
+Check out our integration [docs](https://developers.applovin.com/en/ios/overview/integration) for more info on getting started with the AppLovin MAX SDK.
 
 Note, this Swift package only includes the main AppLovin MAX SDK. We currently do not support installing MAX mediation network adapters using Swift Package Manager.
