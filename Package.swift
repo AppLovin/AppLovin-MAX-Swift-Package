@@ -20,9 +20,6 @@ let package = Package(
             dependencies: [
                 .target(name: "AppLovinSDK")
             ],
-            resources: [
-                .process("AppLovinSDKResources.bundle")
-            ],
             linkerSettings: [
                 .linkedFramework("AdSupport"),
                 .linkedFramework("AppTrackingTransparency"),
