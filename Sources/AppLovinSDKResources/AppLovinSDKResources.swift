@@ -1,5 +1,5 @@
 //
-//  AppLovinSDKResources.h
+//  AppLovinSDKResources.swift
 //  AppLovinSDK
 //
 //  Created by Ritam Sarmah on 8/2/24.
