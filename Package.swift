@@ -14,14 +14,11 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        // This is a wrapper target to configure various settings and resources required by main binary target.
+        // This is a wrapper target to configure various settings required by main binary target.
         .target(
             name: "AppLovinSDKResources",
             dependencies: [
                 .target(name: "AppLovinSDK")
-            ],
-            resources: [
-                .process("AppLovinSDKResources.bundle")
             ],
             linkerSettings: [
                 .linkedFramework("AdSupport"),
