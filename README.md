@@ -20,4 +20,4 @@ dependencies: [
 
 Check out our integration [docs](https://support.applovin.com/en/ios/overview/integration) for more info on getting started with the AppLovin MAX SDK.
 
-Note, this Swift package only includes the main AppLovin MAX SDK. We currently do not support installing MAX mediation network adapters using Swift Package Manager.
+Note, this Swift package only includes the main AppLovin MAX SDK. For MAX mediation network adapters, please refer to the [table](https://support.applovin.com/en/max/ios/preparing-mediated-networks#adapter-network-information) for the links of SPM repos.
